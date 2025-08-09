@@ -91,13 +91,13 @@ dynamic **price tracking systems**, and even **bots that never sleep**.
 
 ## 📊 GitHub Stats  
 
-![Davood's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhobbakht&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davoodkhobbakht&layout=compact&theme=radical)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davoodkhobbakht&theme=radical)](https://git.io/streak-stats)
+![Davood's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhobbakht&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davoodkhobbakht&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davoodkhobbakht&theme=dark)](https://git.io/streak-stats)
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=davoodkhobbakht&theme=onedark)]
+![trophy](https://github-profile-trophy.vercel.app/?username=davoodkhobbakht&theme=onedark)
 
 ## 🌟 Highlight Projects
 - 🛒 **SeoThis** – Automated SEO content generator for WooCommerce.  
