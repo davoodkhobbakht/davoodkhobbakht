@@ -1,3 +1,7 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
 👋 Hey there! I’m Davood Khobbakht
 I’m a Python & WordPress Developer with a deep love for automation, SEO magic, and building tools that make the web work smarter — not harder.
 
