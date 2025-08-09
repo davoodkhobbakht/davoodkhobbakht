@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=davoodkhobbakht)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 
 👋 Hey there! I’m Davood Khobbakht
@@ -98,6 +96,8 @@ dynamic **price tracking systems**, and even **bots that never sleep**.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=davoodkhobbakht&theme=radical)](https://git.io/streak-stats)
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=davoodkhobbakht&theme=onedark)]
 
 ## 🌟 Highlight Projects
 - 🛒 **SeoThis** – Automated SEO content generator for WooCommerce.  
